@@ -39,7 +39,14 @@
 
     ![image](https://github.com/user-attachments/assets/612387bf-49c9-4283-b101-ba42585965b7)
 
- ### 📌 4. 결론
+ ### 📌 4. 추론 시간 비교 - YOLOv8s vs YOLOv9m (실시간성 고려)
+
+  샘플 이미지 10,000장에 대한 평균 추론 시간 결과 YOLOv8s 모델이 약 2배정도 빠름.
+  → 실시간성을 고려하여 **YOLOv8s** 모델 선정
+
+ ![image](https://github.com/user-attachments/assets/1a393e01-9c6f-4111-ba49-7dfd429412da)
+
+ ### 📌 5. 결론
  실시간 감지를 위해 비교적 가볍고 성능이 좋은 YOLOv8s 모델 채택
 
 # 🧠 포탑 각도 예측 모델 학습
