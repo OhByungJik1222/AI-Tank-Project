@@ -36,8 +36,7 @@
 
 ## 🧱 아키텍쳐
 
-![KakaoTalk_20250703_164305623](https://github.com/user-attachments/assets/2a783122-6182-4be7-bbaa-210d96c175b5)
-
+<img width="862" height="501" alt="image" src="https://github.com/user-attachments/assets/7b9f6c3c-62b2-44ad-b2f3-90a911a737de" />
 
 ## 📌 실행 전 유의사항
 정확한 사격을 위해 시뮬레이터 해상도 조정 (1920 x 1080)
