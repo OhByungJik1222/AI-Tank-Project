@@ -2,8 +2,8 @@
 
 ## ✨ 최종 시연 영상
 
-[![Video Label](http://img.youtube.com/vi/7TnWjvFCMAo/maxresdefault.jpg)](https://youtu.be/7TnWjvFCMAo)
-
+[![Video Label](http://img.youtube.com/vi/XXzEgicSERo/maxresdefault.jpg)](https://youtu.be/XXzEgicSERo)
+https://youtu.be/XXzEgicSERo
 ## 📂 루트 디렉토리 및 주요 파일 구조
 ```
 📁 루트 폴더
